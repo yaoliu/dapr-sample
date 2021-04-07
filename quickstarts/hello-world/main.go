@@ -12,7 +12,6 @@ import (
 )
 
 const (
-	stateUrl       = "http://localhost:3500/v1.0/state/statestore"
 	stateStoreName = "statestore"
 )
 
